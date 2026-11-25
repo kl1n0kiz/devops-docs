@@ -12,5 +12,3 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес будущего сайта: `https://kl1n0kiz.github.io/devops-docs/`.
-
-См. [несуществующая страница](missing-page.md).
